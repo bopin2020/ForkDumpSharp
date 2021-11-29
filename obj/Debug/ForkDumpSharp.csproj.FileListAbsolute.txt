@@ -1,0 +1,7 @@
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\bin\Debug\ForkDumpSharp.exe
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\bin\Debug\ForkDumpSharp.pdb
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\bin\Debug\DInvoke.dll
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\obj\Debug\ForkDumpSharp.csproj.CoreCompileInputs.cache
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\obj\Debug\ForkDumpSharp.csproj.CopyComplete
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\obj\Debug\ForkDumpSharp.exe
+D:\code_CSharp\redteam\Credentials\ForkDumpSharp\obj\Debug\ForkDumpSharp.pdb
